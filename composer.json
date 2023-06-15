@@ -1,5 +1,5 @@
 {
-    "name": "andriih/dns-resolver",
+    "name": "andriih/dns-service",
     "description": "This library gets all DNS records for the specified domain name.",
     "type": "library",
     "license": "MIT",
